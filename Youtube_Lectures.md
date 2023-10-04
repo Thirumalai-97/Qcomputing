@@ -9,3 +9,7 @@ Introduction to Quantum Information Sciences
 
 https://www.youtube.com/@sandromareco2603/playlists
 Quantum Computation
+
+
+https://www.youtube.com/watch?v=SkKF48vijiw&list=PLkespgaZN4gmlzjcUzHXMOB-aWqM3OHiP&index=1
+Quantum teleportation in the playlist 
