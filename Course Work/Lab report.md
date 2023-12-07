@@ -8,3 +8,9 @@ Implement the following and find its output in IBM qiskit or any similar open so
 (ii)T Gate  
 (iii)All four Bell States  
 (iv)GHZ State
+
+## Question B  
+Explain and implement Deutsch-Jozsa Algorithm  
+
+## Question C  
+Implement of CHSH violation IBM-Qiskit
