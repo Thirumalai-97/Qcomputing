@@ -1,0 +1,12 @@
+
+60-timestamp.rules goes into /etc/udev/rules.d
+
+Revisions:
+16.0.08
+needed to change rule for link to generate entry with correct user
+permissions for 10.3, 11.0 requires the user of the program to have group
+'user'. should be replaced by something more sensible, i.e., extract group
+from installer or simply ask in the script.
+
+14.7.2018
+cleaned out old hotplug mechanism
