@@ -19,5 +19,5 @@
  - Feauture map used - ZFeaturemap, reps = 3
  - Ansatz used - Real Amplitude, reps = 3
  - Optimizer - COBYLA, maxiter - 50
- - Training score - 0.51
+ - Training score - 0.52
  - Test score - 0.52
